@@ -1,0 +1,2 @@
+# snake
+Escape the maze
